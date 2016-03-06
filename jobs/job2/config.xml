@@ -46,7 +46,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>echo &quot;Hello World&quot;</command>
+      <command>echo &quot;Hello World again&quot;</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
