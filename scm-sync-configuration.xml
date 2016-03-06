@@ -4,6 +4,6 @@
   <scmRepositoryUrl>scm:git:git@github.com:tcmartin24/test-configs.git</scmRepositoryUrl>
   <noUserCommitMessage>false</noUserCommitMessage>
   <displayStatus>true</displayStatus>
-  <commitMessagePattern>[message]b</commitMessagePattern>
+  <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes/>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
